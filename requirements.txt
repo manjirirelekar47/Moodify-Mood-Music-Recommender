@@ -1,0 +1,4 @@
+# Mood Music Recommender — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+streamlit>=1.35.0
